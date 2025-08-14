@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A 2nd year software engineering student based in Auckland, New Zealand</h3>
 
-- 🌐 Check out my personal website: <a target="_blank" href="https://www.samrichellsmith.com/">samrichellsmith.com</a>
+- 🌐 Check out my personal website: [samrichellsmith.com](https://www.samrichellsmith.com/)
 - 📫 How to reach me: **samrs6012@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
-  <!-- Languages & Frontend -->
+  <!-- Core Languages -->
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
@@ -22,8 +23,6 @@
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40"/>
   </a>
-
-  <!-- Frontend / Styling -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
@@ -33,10 +32,12 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
+
+  <!-- Styling / Frontend -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
-
+  
   <!-- Backend / Tools -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
@@ -46,6 +47,9 @@
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
 </p>
 
@@ -60,7 +64,5 @@
 </p>
 
 
-![Top Langs - Radical](https://github-readme-stats.vercel.app/api/top-langs/?username=samrichell-smith&layout=compact&theme=radical)
-
-
+  ![Top Langs - Radical](https://github-readme-stats.vercel.app/api/top-langs/?username=samrichell-smith&layout=compact&theme=radical)
 
