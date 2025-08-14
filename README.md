@@ -63,6 +63,5 @@
   </a>
 </p>
 
-
-  ![Top Langs - Radical](https://github-readme-stats.vercel.app/api/top-langs/?username=samrichell-smith&layout=compact&theme=radical)
+ <!--   ![Top Langs - Radical](https://github-readme-stats.vercel.app/api/top-langs/?username=samrichell-smith&layout=compact&theme=radical) -->
 
