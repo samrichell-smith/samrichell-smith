@@ -59,15 +59,8 @@
   </a>
 </p>
 
-![Top Langs - Default](https://github-readme-stats.vercel.app/api/top-langs/?username=samrichell-smith&layout=compact&theme=default)
-![Top Langs - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=samrichell-smith&layout=compact&theme=dark)
+
 ![Top Langs - Radical](https://github-readme-stats.vercel.app/api/top-langs/?username=samrichell-smith&layout=compact&theme=radical)
-![Top Langs - Mermaid](https://github-readme-stats.vercel.app/api/top-langs/?username=samrichell-smith&layout=compact&theme=merko)
-![Top Langs - Grayscale](https://github-readme-stats.vercel.app/api/top-langs/?username=samrichell-smith&layout=compact&theme=gruvbox)
-![Top Langs - Tokyo Night](https://github-readme-stats.vercel.app/api/top-langs/?username=samrichell-smith&layout=compact&theme=tokyonight)
-![Top Langs - Monokai](https://github-readme-stats.vercel.app/api/top-langs/?username=samrichell-smith&layout=compact&theme=monokai)
-![Top Langs - Shades of Purple](https://github-readme-stats.vercel.app/api/top-langs/?username=samrichell-smith&layout=compact&theme=shades-of-purple)
-![Top Langs - Cobalt](https://github-readme-stats.vercel.app/api/top-langs/?username=samrichell-smith&layout=compact&theme=cobalt)
-![Top Langs - SynthWave](https://github-readme-stats.vercel.app/api/top-langs/?username=samrichell-smith&layout=compact&theme=synthwave)
+
 
 
