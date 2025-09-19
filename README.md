@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sam</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Sam</h1>
 <h3 align="center">A 2nd year software engineering student based in Auckland, New Zealand</h3>
 
 - 🌐 Check out my personal website: [samrichellsmith.com](https://www.samrichellsmith.com/)
