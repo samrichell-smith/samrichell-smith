@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />, I'm Sam</h1>
 
-<h3 align="center">A 2nd year software engineering student based in Auckland, New Zealand</h3>
+<h3 align="center">A 3rd year software engineering student based in Auckland, New Zealand</h3>
 
 # About Me
 
-<p align="justify">I am a 2nd year software engineering student based in Auckland, New Zealand.</p>
+<p align="justify">I am a 3rd year software engineering student based in Auckland, New Zealand.</p>
 
-<p align="justify">I am currently a Tech Executive (2025) at the <a href="https://wdcc.co.nz/">Web Development and Consulting Club (WDCC)</a>.</p>
+<p align="justify">I am currently a Tech Executive (2026) at the <a href="https://wdcc.co.nz/">Web Development and Consulting Club (WDCC)</a>.</p>
 
 <p align="justify">Feel free to check out my personal website at <a href="https://www.samrichellsmith.com/">samrichellsmith.com</a> or reach me at <a href="mailto:samrs6012@gmail.com">samrs6012@gmail.com</a>.</p>
 
